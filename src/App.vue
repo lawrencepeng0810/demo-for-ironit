@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <div>這個網站部屬在 Github , 執行是在 Netlify 網站上</div>
+  <div>這個網站部屬在 Github , 執行是在 Netlify 網站上(vue專案部屬到遠端)</div>
   <HelloWorld msg="I am IronIt demo project" />
 </template>
 
